@@ -1,12 +1,5 @@
 
 
-
-
-
-
-<br />
-
-
 * Single Responsibility Principle (SRP)
 * Open Closed Principle (OCP)
 * Liskov Substitution Principle (LSP)
