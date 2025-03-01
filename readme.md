@@ -9,6 +9,7 @@
 * Don't Repeat Yourself (DRY)
 * You Aren't Gonna Need It (YAGNI)
 * Keep It Simple, Silly (KISS)
+* Composition Over Inheritance
 * Small Commits
 
 > ## Design Patterns
